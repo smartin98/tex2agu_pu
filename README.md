@@ -10,6 +10,7 @@ Example usage:
 \
 \
 Or:
+\
 `python latex_to_agu_pu.py --tex_path <FILE_PATH> --verbose`
 \
 to optionally also print out the text extracted by the script for debugging.
